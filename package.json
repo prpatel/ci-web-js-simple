@@ -1,0 +1,12 @@
+{
+  "name": "ci-web-js",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-jshint": "*"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  }
+}
