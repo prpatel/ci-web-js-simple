@@ -5,7 +5,7 @@
     "grunt": "*",
     "grunt-cli": "*",
     "grunt-contrib-jshint": "*",
-    "jasmine" : "*"
+    "jasmine": "*"
   },
   "scripts": {
     "test": "grunt --verbose"

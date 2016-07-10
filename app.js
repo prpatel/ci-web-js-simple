@@ -6,6 +6,6 @@ http.createServer(function (req, res) {
 }).listen(3000, '127.0.0.1');
 // broken build
 console.log('Server running at http://127.0.0.1:3000/');
-console.log('added more loggin');
+console.log('added more loggin')
 
 // make a small change
